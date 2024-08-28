@@ -55,3 +55,18 @@
 | \<NroDeTP\>          | Número del trabajo práctico.                                     |
 | \<Ext\>              | Extension del archivo que puede corresponderse con: .docx, .xlsx |
 | \<NroDeParcial\>     | Número del parcial.                                              |
+
+## Criterio de Línea Base
+
+La línea base se establecerá tras la corrección de cada trabajo práctico evaluable (o no), asegurando que la versión del proyecto en ese momento refleje los cambios y mejoras aprobados. De este modo garantizamos que cada hito importante del proyecto quede documentado en una versión estable y revisada.
+
+## Nombrado y estandarización de línea base
+Definimos el esquema de nombrado de la siguiente forma:
+#### "LB_\<NroTP\>_\<Fecha\>"
+Donde:
+LB: Indica que se trata de una línea base.
+<NroTP>: Número del trabajo práctico asociado, por ejemplo, TP1, TP2, etc.
+<Fecha>: Fecha en la que se establece la línea base, en formato AAAA-MM-DD.
+#### Ejemplo:
+- LB_TP1_2024-09-01: Línea base establecida después de la corrección del TP1 el 29 de septiembre de 2024.
+
