@@ -29,8 +29,8 @@
 ## Items de Configuración
 | Ítem de Configuración               | Regla de Nombrado                                      | Ubicación                                            |
 |-------------------------------------|--------------------------------------------------------|------------------------------------------------------|
-| Filminas                            | ICS_4K1_G9_Filmina_<NroFilmina>_<NombreDelArchivo>.pdf | ICS_4K1_G9\teorico\filminas                          |
-| Presentaciones grupales             | ICS_4K1_G9_PG_<NombreDePresentacion>.pdf               | ICS_4K1_G9\teorico\presentaciones-grupales           |
+| Filminas                            | ICS_4K1_G9_Filmina_<NroFilmina>_<NombreDeFilmina>.pdf | ICS_4K1_G9\teorico\filminas                          |
+| Presentaciones grupales             | ICS_4K1_G9_PG_<NombreDeArchivo>.pdf               | ICS_4K1_G9\teorico\presentaciones-grupales           |
 | Agile                               | ICS_4K1_G9_Bibliografia_Agile_<NombreDelArchivo>.pdf   | ICS_4K1_G9\teorico\bibliografia\Agile                |
 | Ingenieria de Software              | ICS_4K1_G9_Bibliografia_IS_<NombreDelArchivo>.pdf      | ICS_4K1_G9\teorico\bibliografia\Ingenieria-Software  |
 | Lean y Kanban                       | ICS_4K1_G9_Bibliografia_LK_<NombreDelArchivo>.pdf      | ICS_4K1_G9\teorico\bibliografia\Lean-Kanban          |
