@@ -36,12 +36,12 @@
 | Lean y Kanban                       | ICS_4K1_G9_Bibliografia_LK_<NombreDelArchivo>.pdf      | ICS_4K1_G9\teorico\bibliografia\Lean-Kanban          |
 | SCM                                 | ICS_4K1_G9_Bibliografia_SCM_<NombreDelArchivo>.pdf     | ICS_4K1_G9\teorico\bibliografia\SCM                  |
 | Testing de Software                 | ICS_4K1_G9_Bibliografia_TS_<NombreDelArchivo>.pdf      | ICS_4K1_G9\teorico\bibliografia\Testing-Software     |
-| Guia de ejercicios prácticos        | ICS_4K1_G9_GEP_<NombreDelArchivo>.pdf                  | ICS_4K1_G9\practico\guia-ejercicios-practicos        |
-| TP evaluables                       | ICS_4K1_G9_                                            | ICS_4K1_G9\practico\trabajos-practicos\evaluables    |
-| TP no evaluables                    | ICS_4K1_G9_                                            | ICS_4K1_G9\practico\trabajos-practicos\no-evaluables |
-| Templates                           | ICS_4K1_G9_Template_<NombreDelArchivo>.<Ext>           | ICS_4K1_G9\practico\templates                        |
-| Resumenes                           | ICS_4K1_G9_                                            | ICS_4K1_G9\parciales\resumenes                       |
-| Parciales de años anteriores        | ICS_4K1_G9_                                            | parciales\parciales-años-anteriores                  |
+| Guia de ejercicios prácticos        | ICS_4K1_G9_GEP_<NombreDelEjercicio>.pdf                  | ICS_4K1_G9\practico\guia-ejercicios-practicos        |
+| TP evaluables                       | ICS_4K1_G9_TPE_<NombreDeTP>.pdf                        | ICS_4K1_G9\practico\trabajos-practicos\evaluables    |
+| TP no evaluables                    | ICS_4K1_G9_TPN_<NombreDeTP>.pdf                        | ICS_4K1_G9\practico\trabajos-practicos\no-evaluables |
+| Templates                           | ICS_4K1_G9_Template_<NombreDeTemplate>.docx            | ICS_4K1_G9\practico\templates                        |
+| Resumenes                           | ICS_4K1_G9_Resumen_<NombreDeResumen>.pdf               | ICS_4K1_G9\parciales\resumenes                       |
+| Parciales de años anteriores        | ICS_4K1_G9_PAA<NombreDeParcial>.pdf                    | parciales\parciales-años-anteriores                  |
 
 ## Glosario
 
