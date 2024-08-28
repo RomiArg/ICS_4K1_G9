@@ -45,13 +45,13 @@
 
 ## Glosario
 
-| Sigla              | Significado                         |
-|--------------------|-------------------------------------|
-| ICS                | Nombre de la materia                |
-| 4K1                | Nombre del curso                    |
-| G9                 | Número de grupo                     |
-| <Título>           | Título del Documento                |
-| <NombreDelArchivo> | Nombre del archivo                  |
-| <NroFilmina>       | Nombre del trabajo práctico         |
-| <Ext>              | Extensiones permitidas: .doc, .xlsx |
-| <Nro Grupo>        | Número de grupo                     |
+| Sigla              | Significado                                                      |
+| ------------------ | ---------------------------------------------------------------- |
+| ICS                | Nombre de la materia: Ingeniería y Calidad de Software.          |
+| 4K1                | Nombre del curso.                                                |
+| G9                 | Número de grupo.                                                 |
+| <NroFilmina>       | Número de la filmina.                                            |
+| <NombreDelArchivo> | Nombre del archivo.                                              |
+| <NroDeTP>          | Número del trabajo práctico.                                     |
+| <Ext>              | Extension del archivo que puede corresponderse con: .docx, .xlsx |
+| <NroDeParcial>     | Número del parcial.                                              |
