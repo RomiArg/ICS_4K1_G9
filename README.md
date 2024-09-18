@@ -58,7 +58,7 @@
 
 ## Criterio de Línea Base
 
-La línea base se establecerá tras la corrección de cada trabajo práctico evaluable (o no), asegurando que la versión del proyecto en ese momento refleje los cambios y mejoras aprobados. De este modo garantizamos que cada hito importante del proyecto quede documentado en una versión estable y revisada.
+La línea base se establecerá tras la corrección de cada trabajo práctico evaluable, asegurando que la versión del proyecto en ese momento refleje los cambios y mejoras aprobados. De este modo garantizamos que cada hito importante del proyecto quede documentado en una versión estable y revisada.
 
 ## Nombrado y estandarización de línea base
 Definimos el esquema de nombrado de la siguiente forma:
