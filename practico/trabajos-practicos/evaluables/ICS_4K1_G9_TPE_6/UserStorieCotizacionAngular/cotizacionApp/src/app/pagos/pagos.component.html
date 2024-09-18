@@ -1,0 +1,29 @@
+<div class="container" *ngIf="cotizacion">
+  <mat-card class="payment-card">
+    <mat-card-title class="main-title">Detalles de la Cotización</mat-card-title>
+    <mat-card-content>
+      <div class="cotizacion-details">
+        <p><strong>Número de cotización:</strong> {{cotizacion.cotizacionId}}</p>
+        <p><strong>Transportista ID:</strong> {{cotizacion.personaId}}</p>
+        <p><strong>Fecha de Retiro:</strong> {{cotizacion.fechaRetiro | date:'dd/MM/yyyy'}}</p>
+        <p><strong>Fecha de Entrega:</strong> {{cotizacion.fechaEntrega | date:'dd/MM/yyyy'}}</p>
+        <p><strong>Importe:</strong> {{cotizacion.importe | currency}}</p>
+        <p><strong>Estado:</strong> {{cotizacion.estado}}</p>
+      </div>
+
+      <mat-card-title class="payment-method-title">Seleccione forma de pago</mat-card-title>
+      <div class="payment-buttons">
+        <button mat-raised-button class="btn-debito" (click)="selectPaymentMethod('debito')">Débito / Crédito</button>
+        <button mat-raised-button class="btn-efectivo-entrega" (click)="selectPaymentMethod('efectivo-entrega')">Efectivo al Entregar</button>
+        <button mat-raised-button class="btn-efectivo-retiro" (click)="selectPaymentMethod('efectivo-retiro')">Efectivo al Retirar</button>
+      </div>
+
+      <!-- Indicador de carga -->
+      <mat-progress-spinner *ngIf="isProcessing" diameter="40" mode="indeterminate"></mat-progress-spinner>
+
+    </mat-card-content>
+    <mat-card-actions>
+      <button mat-raised-button color="primary" (click)="volverACotizaciones()">Volver a Pedidos</button>
+    </mat-card-actions>
+  </mat-card>
+</div>

@@ -1,0 +1,143 @@
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\appsettings.Development.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\appsettings.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.exe
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.deps.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.runtimeconfig.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.pdb
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.csproj.AssemblyReference.cache
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.AssemblyInfoInputs.cache
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.AssemblyInfo.cs
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.csproj.CoreCompileInputs.cache
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.MvcApplicationPartsAssemblyInfo.cs
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.MvcApplicationPartsAssemblyInfo.cache
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.build.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.development.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.UserStorieCotizacion.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.build.UserStorieCotizacion.props
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserStorieCotizacion.props
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserStorieCotizacion.props
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\scopedcss\bundle\UserStorieCotizacion.styles.css
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.csproj.CopyComplete
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\refint\UserStorieCotizacion.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.pdb
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.genruntimeconfig.cache
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\ref\UserStorieCotizacion.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Humanizer.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\MailKit.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\MimeKit.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\IMPLEMENTACION USERSTORIE\cotizacion\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\appsettings.Development.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\appsettings.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.exe
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.deps.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.runtimeconfig.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\UserStorieCotizacion.pdb
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Humanizer.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\MailKit.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\MimeKit.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.csproj.AssemblyReference.cache
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.AssemblyInfoInputs.cache
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.AssemblyInfo.cs
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.csproj.CoreCompileInputs.cache
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.MvcApplicationPartsAssemblyInfo.cs
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.MvcApplicationPartsAssemblyInfo.cache
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.sourcelink.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.build.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.development.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.UserStorieCotizacion.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.build.UserStorieCotizacion.props
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.UserStorieCotizacion.props
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.UserStorieCotizacion.props
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\scopedcss\bundle\UserStorieCotizacion.styles.css
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStor.0F392B29.Up2Date
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\refint\UserStorieCotizacion.dll
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.pdb
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\UserStorieCotizacion.genruntimeconfig.cache
+E:\Proyectos\ICS_4K1_G9\practico\trabajos-practicos\evaluables\ICS_4K1_G9_TPE_6\UserStorieCotizacion\UserStorieCotizacion\obj\Debug\net6.0\ref\UserStorieCotizacion.dll

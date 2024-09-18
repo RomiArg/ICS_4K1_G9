@@ -1,0 +1,107 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('https://wallpapers.com/images/high/empty-desert-professional-desktop-cgwgobvxi44oja9r.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 20px; /* Agrega un poco de espacio alrededor del componente */
+}
+
+.custom-card {
+  width: 90%; /* Ajusta el ancho del componente */
+  max-width: 1000px; /* Limita el ancho máximo del componente */
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.13);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 20px; /* Agrega espacio interno del componente */
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 18px; /* Aumenta el tamaño de la fuente */
+}
+
+.custom-table th, .custom-table td {
+  padding: 15px; /* Aumenta el padding interno */
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.custom-table td {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-pagar {
+  color: #ffffff;
+  background-color: #007bff;
+  padding: 10px 20px; /* Aumenta el padding interno del botón */
+  font-size: 16px; /* Aumenta el tamaño de la fuente del botón */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse; /* Para eliminar los espacios entre celdas */
+}
+
+.custom-table th, .custom-table td {
+  padding: 12px; /* Espaciado interno para las celdas */
+  text-align: left; /* Alineación del texto */
+  border-bottom: 1px solid #ddd; /* Borde inferior de las celdas */
+}
+
+.custom-table th {
+  background-color: #f4f4f4; /* Color de fondo para los encabezados */
+  color: #333; /* Color del texto en los encabezados */
+  font-weight: bold; /* Negrita para el texto en los encabezados */
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: #f9f9f9; /* Color de fondo para las filas pares */
+}
+
+.custom-table tr:hover {
+  background-color: #f1f1f1; /* Color de fondo al pasar el ratón sobre una fila */
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ddd; /* Borde de las celdas */
+  border-radius: 4px; /* Bordes redondeados en las celdas */
+}
+
+.mat-card-content {
+  padding: 16px; /* Espaciado interno para el contenido del mat-card */
+}
+
+
+/* Estilos para el título principal */
+.main-title {
+  font-size: 1.5rem; /* Tamaño de fuente más grande */
+  font-weight: bold; /* Fuente en negrita */
+  color: #000000; /* Color oscuro para mayor contraste */
+  border-bottom: 2px solid #3498db; /* Línea inferior azul para resaltar */
+  padding-bottom: 10px; /* Espaciado debajo del texto */
+  margin-bottom: 20px; /* Espaciado debajo del título */
+}

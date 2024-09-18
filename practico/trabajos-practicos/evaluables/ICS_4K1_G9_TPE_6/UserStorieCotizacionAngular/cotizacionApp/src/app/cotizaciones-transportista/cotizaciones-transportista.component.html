@@ -1,0 +1,89 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>Bienvenido, {{ usuario?.nombre }}</mat-card-title>
+    <mat-card-subtitle>Correo electrónico: {{ usuario?.email }}</mat-card-subtitle>
+  </mat-card-header>
+
+  <!-- Mostrar mensaje de alerta -->
+  <div *ngIf="mensajeNotificacion" class="alert alert-info">
+    {{ mensajeNotificacion }}
+  </div>
+
+  <mat-card-content>
+    
+    
+      <span></span> <!-- Espacio para alinear los botones a la derecha -->
+      <button mat-raised-button color="primary" (click)="volverAlMenu()" >Menú Principal</button>
+      <button mat-raised-button color="primary" (click)="registrarCotizacion()" >Registrar cotización</button>
+      
+      <span></span> <!-- Espacio para alinear el botón de cerrar sesión a la derecha -->
+      <button mat-raised-button color="warn" (click)="cerrarSesion()">Cerrar Sesión</button>
+    
+    <div class="listadoCotizaciones-container">
+      
+      <h2>Listado de cotizaciones</h2>
+    </div>
+    <!-- Tabla para mostrar las cotizaciones -->
+    <table mat-table [dataSource]="cotizaciones" class="mat-elevation-z8 custom-table">
+
+      <!-- Cotizacion ID Column -->
+      <ng-container matColumnDef="cotizacionId">
+        <th mat-header-cell *matHeaderCellDef> ID Cotización </th>
+        <td mat-cell *matCellDef="let element"> {{ element.cotizacionId }} </td>
+      </ng-container>
+
+      <!-- Fecha de Retiro Column -->
+      <ng-container matColumnDef="fechaRetiro">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Retiro </th>
+        <td mat-cell *matCellDef="let element"> {{ element.fechaRetiro | date:'dd/MM/yyyy' }} </td>
+      </ng-container>
+
+      <!-- Fecha de Entrega Column -->
+      <ng-container matColumnDef="fechaEntrega">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Entrega </th>
+        <td mat-cell *matCellDef="let element"> {{ element.fechaEntrega | date:'dd/MM/yyyy' }} </td>
+      </ng-container>
+
+      <!-- Importe Column -->
+      <ng-container matColumnDef="importe">
+        <th mat-header-cell *matHeaderCellDef> Importe </th>
+        <td mat-cell *matCellDef="let element"> {{ element.importe | currency }} </td>
+      </ng-container>
+
+      <!-- Estado Column -->
+      <ng-container matColumnDef="estado">
+        <th mat-header-cell *matHeaderCellDef> Estado </th>
+        <td mat-cell *matCellDef="let element"> {{ element.estado }} </td>
+      </ng-container>
+
+      <!-- Forma de Pago Establecida Column -->
+      <ng-container matColumnDef="formaPagoEstablecida">
+        <th mat-header-cell *matHeaderCellDef> Forma Pago </th>
+        <td mat-cell *matCellDef="let element"> {{ element.formaPagoEstablecida }} </td>
+      </ng-container>
+
+            <!-- Acciones Column -->
+      <ng-container matColumnDef="acciones">
+        <th mat-header-cell *matHeaderCellDef> Acciones </th>
+        <td mat-cell *matCellDef="let element">
+          <button mat-raised-button color="warn" class="btn-eliminar" (click)="eliminarCotizacion()">
+            Eliminar
+          </button>
+        </td>
+      </ng-container>
+
+
+
+
+      <!-- Header and Row Definitions -->
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+    </table>
+
+    <!-- Mostrar mensaje si no hay cotizaciones -->
+    <p *ngIf="cotizaciones.length === 0" class="no-cotizaciones">
+      No se encontraron cotizaciones.
+    </p>
+  </mat-card-content>
+</mat-card>

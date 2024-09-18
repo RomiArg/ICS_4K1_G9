@@ -1,0 +1,91 @@
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('https://wallpapers.com/images/high/empty-desert-professional-desktop-cgwgobvxi44oja9r.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap; /* Permite que los elementos se ajusten en múltiples líneas si no caben en una sola */
+  justify-content: center; /* Centra los elementos horizontalmente */
+  align-items: flex-start; /* Alinea los elementos en la parte superior */
+  gap: 20px; /* Espacio entre los elementos */
+  width: 100%;
+  padding: 20px; /* Agrega espacio alrededor del contenedor */
+}
+
+.detalle-pedido-container {
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.13); /* Color translúcido */
+  backdrop-filter: blur(10px); /* Aplicar desenfoque de fondo */
+  border: 2px solid rgba(255, 255, 255, 0.1); /* Borde suave translúcido */
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6); /* Sombra para un efecto más dramático */
+  padding: 20px; /* Espacio interno del componente */
+  max-width: 800px; /* Ancho máximo del contenedor para mantenerlo más centrado */
+  width: 100%; /* Asegura que el contenedor ocupe todo el ancho disponible del contenedor principal */
+}
+
+
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+.custom-table th, .custom-table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.custom-table td {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+button[mat-raised-button] {
+  margin-top: 20px;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse; /* Para eliminar los espacios entre celdas */
+}
+
+.custom-table th, .custom-table td {
+  padding: 12px; /* Espaciado interno para las celdas */
+  text-align: left; /* Alineación del texto */
+  border-bottom: 1px solid #ddd; /* Borde inferior de las celdas */
+}
+
+.custom-table th {
+  background-color: #f4f4f4; /* Color de fondo para los encabezados */
+  color: #333; /* Color del texto en los encabezados */
+  font-weight: bold; /* Negrita para el texto en los encabezados */
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: #f9f9f9; /* Color de fondo para las filas pares */
+}
+
+.custom-table tr:hover {
+  background-color: #f1f1f1; /* Color de fondo al pasar el ratón sobre una fila */
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ddd; /* Borde de las celdas */
+  border-radius: 4px; /* Bordes redondeados en las celdas */
+}
+
+.mat-card-content {
+  padding: 16px; /* Espaciado interno para el contenido del mat-card */
+}
+

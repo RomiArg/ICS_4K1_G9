@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>Notificación</h1>
+<div mat-dialog-content>
+  <div [ngClass]="{'success': data.type === 'success', 'error': data.type === 'error'}">
+    {{ data.message }}
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onClose()">Cerrar</button>
+</div>

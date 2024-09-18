@@ -1,0 +1,115 @@
+/* Estilo global para el fondo de pantalla */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url('https://img.freepik.com/foto-gratis/grupo-autobuses-que-viajan-carretera-al-atardecer_157027-4307.jpg?w=1380&t=st=1726427432~exp=1726428032~hmac=bd418b60b6526a221debb2d4d5fe35ac461ce4fd61baa00724df06959689e06b');
+  background-size: cover;
+  background-position: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.custom-card {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.13);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+}
+
+.custom-button {
+  margin: 0 5px;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.custom-table th, .custom-table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.custom-table th {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.custom-table td {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.btn-consultar {
+  color: #ffffff;
+  background-color: #007bff;
+}
+
+:host {
+  display: block;
+  background-image: url('https://img.freepik.com/foto-gratis/fondo-pantalla-paisaje-desierto-sahara_1409-5536.jpg?t=st=1726429423~exp=1726433023~hmac=0def8266b698177b84a0c5c0b7913490d76b734b6a4bd0ade3c192802cea0749&w=1380');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+
+.custom-card {
+  position: relative; /* Asegúrate de que el contenedor permita posicionamiento absoluto */
+}
+
+.custom-button {
+  margin: 0 5px;
+}
+
+.custom-button-close {
+  position: absolute;
+  right: 280px; /* Ajusta este valor para mover el botón hacia la derecha */
+  bottom: 10px; /* Ajusta este valor para mover el botón hacia arriba o abajo */
+  /* Si deseas ajustar aún más el botón, puedes añadir otros estilos como padding o margin */
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse; /* Para eliminar los espacios entre celdas */
+}
+
+.custom-table th, .custom-table td {
+  padding: 12px; /* Espaciado interno para las celdas */
+  text-align: left; /* Alineación del texto */
+  border-bottom: 1px solid #ddd; /* Borde inferior de las celdas */
+}
+
+.custom-table th {
+  background-color: #f4f4f4; /* Color de fondo para los encabezados */
+  color: #333; /* Color del texto en los encabezados */
+  font-weight: bold; /* Negrita para el texto en los encabezados */
+}
+
+.custom-table tr:nth-child(even) {
+  background-color: #f9f9f9; /* Color de fondo para las filas pares */
+}
+
+.custom-table tr:hover {
+  background-color: #f1f1f1; /* Color de fondo al pasar el ratón sobre una fila */
+}
+
+.custom-table th, .custom-table td {
+  border: 1px solid #ddd; /* Borde de las celdas */
+  border-radius: 4px; /* Bordes redondeados en las celdas */
+}
+
+.mat-card-content {
+  padding: 16px; /* Espaciado interno para el contenido del mat-card */
+}
+
+/* Estilos para el título principal */
+.main-title {
+  font-size: 1.5rem; /* Tamaño de fuente más grande */
+  font-weight: bold; /* Fuente en negrita */
+  color: #000000; /* Color oscuro para mayor contraste */
+  border-bottom: 2px solid #3498db; /* Línea inferior azul para resaltar */
+  padding-bottom: 10px; /* Espaciado debajo del texto */
+  margin-bottom: 20px; /* Espaciado debajo del título */
+}

@@ -1,0 +1,69 @@
+<div class="container">
+  <mat-card class="custom-card">
+    <mat-card-header>
+     
+      <mat-card-title class="main-title">{{ titulo }}</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <table mat-table [dataSource]="cotizaciones" class="mat-elevation-z8 custom-table">
+
+        <!-- ID Column -->
+        <ng-container matColumnDef="cotizacionId">
+          <th mat-header-cell *matHeaderCellDef> ID </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.cotizacionId}} </td>
+        </ng-container>
+
+        <!-- Nombre del Cotizador Column -->
+        <ng-container matColumnDef="nombreCotizador">
+          <th mat-header-cell *matHeaderCellDef> Nombre </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.nombreCotizador}} </td>
+        </ng-container>
+
+        <!-- Fecha de Retiro Column -->
+        <ng-container matColumnDef="fechaRetiro">
+          <th mat-header-cell *matHeaderCellDef> Fecha de Retiro </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.fechaRetiro | date:'dd/MM/yyyy'}} </td>
+        </ng-container>
+
+        <!-- Fecha de Entrega Column -->
+        <ng-container matColumnDef="fechaEntrega">
+          <th mat-header-cell *matHeaderCellDef> Fecha de Entrega </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.fechaEntrega | date:'dd/MM/yyyy'}} </td>
+        </ng-container>
+
+        <!-- Estado Column -->
+        <ng-container matColumnDef="estado">
+          <th mat-header-cell *matHeaderCellDef> Estado </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.estado}} </td>
+        </ng-container>
+
+        <!-- Importe Column -->
+        <ng-container matColumnDef="importe">
+          <th mat-header-cell *matHeaderCellDef> Importe </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.importe | currency}} </td>
+        </ng-container>
+
+        <!-- Calificación del Transportista Column -->
+        <ng-container matColumnDef="calificacionTransportista">
+          <th mat-header-cell *matHeaderCellDef> Calificación del transportista </th>
+          <td mat-cell *matCellDef="let cotizacion"> {{cotizacion.calificacionTransportista}} </td>
+        </ng-container>
+
+        <!-- Acciones Column -->
+        <ng-container matColumnDef="acciones">
+          <th mat-header-cell *matHeaderCellDef> Acciones </th>
+          <td mat-cell *matCellDef="let cotizacion">
+            <button mat-button class="btn-pagar" (click)="pagar(cotizacion.cotizacionId)">Pagar</button>
+          </td>
+        </ng-container>
+
+        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+        <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table>
+
+      <div class="button-container">
+        <button mat-raised-button color="primary" (click)="volverAMisPedidos()">Volver a Mis Pedidos</button>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>

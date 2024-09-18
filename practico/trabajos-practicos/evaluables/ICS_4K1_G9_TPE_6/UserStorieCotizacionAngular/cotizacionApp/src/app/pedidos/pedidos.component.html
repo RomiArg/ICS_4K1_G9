@@ -1,0 +1,133 @@
+
+
+<mat-card class="custom-card">
+  <mat-card-header>
+    <mat-card-title>Bienvenido, {{usuario?.nombre}}</mat-card-title>
+    <mat-card-subtitle>Correo electrónico: {{usuario?.email}}</mat-card-subtitle>
+  </mat-card-header>
+
+  <mat-card-content>
+    <button mat-raised-button color="primary" class="custom-button" (click)="menuPrincipal()">Menú Principal</button>
+    <button mat-raised-button color="primary" class="custom-button" (click)="registrarPedido()">Registrar Pedido</button>
+    
+    <button mat-raised-button color="warn" class="custom-button" (click)="cerrarSesion()">Cerrar Sesión</button>
+  </mat-card-content>
+</mat-card>
+
+
+<mat-card class="custom-card">
+  <mat-card-header>
+    <mat-card-title class="main-title">Pedidos Pendientes</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <table mat-table [dataSource]="pedidosPendientes" class="mat-elevation-z8 custom-table">
+      <!-- ID Column -->
+      <ng-container matColumnDef="pedidoId">
+        <th mat-header-cell *matHeaderCellDef> ID </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.pedidoId}} </td>
+      </ng-container>
+
+      <!-- Estado Column -->
+      <ng-container matColumnDef="estadoPedido">
+        <th mat-header-cell *matHeaderCellDef> Estado </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.estadoPedido}} </td>
+      </ng-container>
+
+      <!-- Domicilio Retiro Column -->
+      <ng-container matColumnDef="domicilioRetiro">
+        <th mat-header-cell *matHeaderCellDef> Domicilio de Retiro </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.domicilioRetiro}} </td>
+      </ng-container>
+
+      <!-- Fecha Retiro Column -->
+      <ng-container matColumnDef="fechaRetiro">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Retiro </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.fechaRetiro | date}} </td>
+      </ng-container>
+
+      <!-- Domicilio Entrega Column -->
+      <ng-container matColumnDef="domicilioEntrega">
+        <th mat-header-cell *matHeaderCellDef> Domicilio de Entrega </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.domicilioEntrega}} </td>
+      </ng-container>
+
+      <!-- Fecha Entrega Column -->
+      <ng-container matColumnDef="fechaEntrega">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Entrega </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.fechaEntrega | date}} </td>
+      </ng-container>
+
+      <!-- Consultar Cotización Column -->
+      <ng-container matColumnDef="consultarCotizacion">
+        <th mat-header-cell *matHeaderCellDef> Acciones </th>
+        <td mat-cell *matCellDef="let pedido">
+          <button mat-button class="btn-consultar" (click)="consultarCotizacion(pedido.pedidoId)">
+            Consultar Cotización
+          </button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="custom-card">
+  <mat-card-header>
+    
+    <mat-card-title class="main-title">Pedidos Confirmados</mat-card-title>
+  </mat-card-header>
+  <mat-card-content>
+    <table mat-table [dataSource]="pedidosConfirmados" class="mat-elevation-z8 custom-table">
+      <!-- ID Column -->
+      <ng-container matColumnDef="pedidoId">
+        <th mat-header-cell *matHeaderCellDef> ID </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.pedidoId}} </td>
+      </ng-container>
+
+      <!-- Estado Column -->
+      <ng-container matColumnDef="estadoPedido">
+        <th mat-header-cell *matHeaderCellDef> Estado </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.estadoPedido}} </td>
+      </ng-container>
+
+      <!-- Domicilio Retiro Column -->
+      <ng-container matColumnDef="domicilioRetiro">
+        <th mat-header-cell *matHeaderCellDef> Domicilio de Retiro </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.domicilioRetiro}} </td>
+      </ng-container>
+
+      <!-- Fecha Retiro Column -->
+      <ng-container matColumnDef="fechaRetiro">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Retiro </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.fechaRetiro | date}} </td>
+      </ng-container>
+
+      <!-- Domicilio Entrega Column -->
+      <ng-container matColumnDef="domicilioEntrega">
+        <th mat-header-cell *matHeaderCellDef> Domicilio de Entrega </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.domicilioEntrega}} </td>
+      </ng-container>
+
+      <!-- Fecha Entrega Column -->
+      <ng-container matColumnDef="fechaEntrega">
+        <th mat-header-cell *matHeaderCellDef> Fecha de Entrega </th>
+        <td mat-cell *matCellDef="let pedido"> {{pedido.fechaEntrega | date}} </td>
+      </ng-container>
+
+      <!-- Consultar Cotización Column -->
+      <ng-container matColumnDef="consultarCotizacion">
+        <th mat-header-cell *matHeaderCellDef> Acciones </th>
+        <td mat-cell *matCellDef="let pedido">
+          <button mat-button class="btn-consultar" (click)="consultarEstadoPedido(pedido.pedidoId)">
+            Consultar detalle
+          </button>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    </table>
+  </mat-card-content>
+</mat-card>

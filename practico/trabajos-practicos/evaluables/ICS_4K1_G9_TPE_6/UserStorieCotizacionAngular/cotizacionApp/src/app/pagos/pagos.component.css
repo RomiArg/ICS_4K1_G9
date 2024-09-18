@@ -1,0 +1,185 @@
+.payment-card {
+  margin: 20px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.13); /* Fondo translúcido */
+  backdrop-filter: blur(10px); /* Aplicar desenfoque de fondo */
+  border: 2px solid rgba(255, 255, 255, 0.1); /* Borde translúcido suave */
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6); /* Sombra para dar profundidad */
+}
+
+.payment-card mat-card-header {
+  background: rgba(245, 245, 245, 0.5); /* Fondo gris claro translúcido para el encabezado */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Borde inferior translúcido */
+}
+
+.cotizacion-details {
+  padding: 15px;
+  border-radius: 5px;
+  background: rgba(240, 240, 240, 0.13); /* Fondo gris claro translúcido */
+  margin-bottom: 20px;
+}
+
+.cotizacion-details p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.payment-method-title {
+  margin: 20px 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.payment-buttons {
+  display: flex;
+  gap: 10px; /* Espacio entre botones */
+}
+
+.payment-buttons button {
+  flex: 1;
+  font-size: 16px;
+  border-radius: 5px;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.btn-debito {
+  background: #4caf50;
+  color: white;
+}
+
+.btn-efectivo-entrega {
+  background: #ff9800;
+  color: white;
+}
+
+.btn-efectivo-retiro {
+  background: #f44336;
+  color: white;
+}
+
+.payment-buttons button:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+mat-card-actions {
+  padding: 16px;
+  display: flex;
+  justify-content: center;
+}
+
+mat-card-actions button {
+  font-size: 16px;
+  border-radius: 5px;
+}
+:host {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('https://wallpapers.com/images/high/empty-desert-professional-desktop-cgwgobvxi44oja9r.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 20px; /* Agrega un poco de espacio alrededor del componente */
+}
+
+.payment-card {
+  width: 90%; /* Ajusta el ancho según tus necesidades */
+  max-width: 800px; /* Limita el ancho máximo del componente */
+  margin: 20px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.13); /* Fondo translúcido */
+  backdrop-filter: blur(10px); /* Aplicar desenfoque de fondo */
+  border: 2px solid rgba(255, 255, 255, 0.1); /* Borde translúcido suave */
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6); /* Sombra para dar profundidad */
+  padding: 20px; /* Espacio interno del componente */
+}
+
+.payment-card mat-card-header {
+  background: rgba(245, 245, 245, 0.5); /* Fondo gris claro translúcido para el encabezado */
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* Borde inferior translúcido */
+}
+
+.cotizacion-details {
+  padding: 20px; /* Aumenta el padding interno */
+  border-radius: 5px;
+  background: rgba(240, 240, 240, 0.13); /* Fondo gris claro translúcido */
+  margin-bottom: 20px;
+}
+
+.cotizacion-details p {
+  margin: 10px 0; /* Aumenta el margen entre párrafos */
+  font-size: 18px; /* Aumenta el tamaño de la fuente */
+}
+
+.payment-method-title {
+  margin: 20px 0;
+  font-size: 22px; /* Aumenta el tamaño de la fuente del título */
+  font-weight: bold;
+}
+
+.payment-buttons {
+  display: flex;
+  gap: 15px; /* Aumenta el espacio entre botones */
+}
+
+.payment-buttons button {
+  flex: 1;
+  font-size: 18px; /* Aumenta el tamaño de la fuente en los botones */
+  border-radius: 5px;
+  padding: 15px; /* Aumenta el padding interno de los botones */
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.btn-debito {
+  background: #4caf50;
+  color: white;
+}
+
+.btn-efectivo-entrega {
+  background: #ff9800;
+  color: white;
+}
+
+.btn-efectivo-retiro {
+  background: #f44336;
+  color: white;
+}
+
+.payment-buttons button:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+mat-card-actions {
+  padding: 20px; /* Aumenta el padding interno */
+  display: flex;
+  justify-content: center;
+}
+
+mat-card-actions button {
+  font-size: 18px; /* Aumenta el tamaño de la fuente en el botón de acciones */
+  border-radius: 5px;
+  padding: 10px 20px; /* Aumenta el padding interno del botón de acciones */
+}
+
+/* Estilos para el título principal */
+.main-title {
+  font-size: 1.5rem; /* Tamaño de fuente más grande */
+  font-weight: bold; /* Fuente en negrita */
+  color: #2c3e50; /* Color oscuro para mayor contraste */
+  border-bottom: 2px solid #3498db; /* Línea inferior azul para resaltar */
+  padding-bottom: 10px; /* Espaciado debajo del texto */
+  margin-bottom: 20px; /* Espaciado debajo del título */
+}
+
+.mat-progress-spinner {
+  display: block;
+  margin: 20px auto;
+}
