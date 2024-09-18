@@ -1,9 +1,4 @@
 
-# INGENIERIA Y CALIDAD DE SOFTWARE | 4K1 | GRUPO 9
-
-
-
-
 ## Estructura de Carpetas
 
 - Teórico
@@ -16,7 +11,7 @@
 		- Lean y Kanban
 		- SCM
 - Práctico
-	- Guia de ejercicios prácticos
+	- Guias de ejercicios prácticos
 	- Trabajos Practicos
 		- Evaluables
 		- No evaluables
@@ -30,17 +25,17 @@
 | Ítem de Configuración        | Regla de Nombrado                                     | Ubicación                                               |
 | ---------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
 | Filminas                     | ICS_4K1_G9_Filmina_\<NroFilmina\>_\<NombreDeFilmina\>.pdf | ICS_4K1_G9\\teorico\\filminas                           |
-| Presentaciones grupales      | ICS_4K1_G9_PG_\<NombreDeArchivo\>.pdf                   | ICS_4K1_G9\\teorico\\presentaciones-grupales            |
-| Agile                        | ICS_4K1_G9_Bibliografia_Agile_\<NombreDeArchivo\>.pdf   | ICS_4K1_G9\\teorico\\bibliografia\\Agile                |
-| Ingeniería de Software       | ICS_4K1_G9_Bibliografia_IS_\<NombreDeArchivo\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Ingenieria-Software  |
-| Lean y Kanban                | ICS_4K1_G9_Bibliografia_LK_\<NombreDeArchivo\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Lean-Kanban          |
-| SCM                          | ICS_4K1_G9_Bibliografia_SCM_\<NombreDeArchivo\>.pdf     | ICS_4K1_G9\\teorico\\bibliografia\\SCM                  |
-| Testing de Software          | ICS_4K1_G9_Bibliografia_TS_\<NombreDeArchivo\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Testing-Software     |
-| Guía de ejercicios prácticos | ICS_4K1_G9_GEP_\<NombreDeArchivo\>.pdf                  | ICS_4K1_G9\\practico\\guia-ejercicios-practicos         |
+| Presentaciones grupales      | ICS_4K1_G9_PG_\<NroPresentacion\>_\<NombreDePresentacion\>.pdf                   | ICS_4K1_G9\\teorico\\presentaciones-grupales            |
+| Agile                        | ICS_4K1_G9_Bibliografia_Agile_\<NombreDeLibro\>.pdf   | ICS_4K1_G9\\teorico\\bibliografia\\Agile                |
+| Ingeniería de Software       | ICS_4K1_G9_Bibliografia_IS_\<NombreDeLibro\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Ingenieria-Software  |
+| Lean y Kanban                | ICS_4K1_G9_Bibliografia_LK_\<NombreDeLibro\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Lean-Kanban          |
+| SCM                          | ICS_4K1_G9_Bibliografia_SCM_\<NombreDeLibro\>.pdf     | ICS_4K1_G9\\teorico\\bibliografia\\SCM                  |
+| Testing de Software          | ICS_4K1_G9_Bibliografia_TS_\<NombreDeLibro\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Testing-Software     |
+| Guías de ejercicios prácticos | ICS_4K1_G9_GEP_\<NombreDeGuia\>.pdf                  | ICS_4K1_G9\\practico\\guias-ejercicios-practicos         |
 | TP evaluables                | ICS_4K1_G9_TPE_Nro_\<NroDeTP\>.pdf                      | ICS_4K1_G9\\practico\\trabajos-practicos\\evaluables    |
 | TP no evaluables             | ICS_4K1_G9_TPN_\<NroDeTP\>.pdf                          | ICS_4K1_G9\\practico\\trabajos-practicos\\no-evaluables |
-| Templates                    | ICS_4K1_G9_Template_\<NombreDeArchivo\>.\<Ext\>           | ICS_4K1_G9\\practico\\templates                         |
-| Resúmenes                    | ICS_4K1_G9_Resumen_\<NombreDeArchivo\>.pdf              | ICS_4K1_G9\\parciales\\resumenes                        |
+| Templates                    | ICS_4K1_G9_Template_\<NombreDeTemplate\>.\<Ext\>           | ICS_4K1_G9\\practico\\templates                         |
+| Resúmenes                    | ICS_4K1_G9_Resumen_\<Autor\>\_Parcial\_\<NroDeParcial\>.pdf              | ICS_4K1_G9\\parciales\\resumenes                        |
 | Parciales de años anteriores | ICS_4K1_G9_PAA_\<NroDeParcial\>.pdf                     | ICS_4K1_G9\\parciales\\parciales-años-anteriores        |
 
 ## Glosario
@@ -51,9 +46,14 @@
 | 4K1                | Nombre del curso.                                                |
 | G9                 | Número de grupo.                                                 |
 | \<NroFilmina\>       | Número de la filmina.                                            |
-| \<NombreDelArchivo\> | Nombre del archivo.                                              |
+| \<NombreDeFilmina\>  | Nombre descriptivo o título del tema de la filmina.              |
+| \<NroPresentacion\>  | Número de la presentacion.                                       |
+| \<NombreDePresentacion\>  | Nombre descriptivo o título del tema de la presentacion.  |
+| \<NombreDeLibro\>  | Titulo del libro.                                                  |
+| \<NombreDeGuia\>  |  Titulo de la guia.                                                  |
 | \<NroDeTP\>          | Número del trabajo práctico.                                     |
-| \<Ext\>              | Extension del archivo que puede corresponderse con: .docx, .xlsx |
+| \<NombreDeTemplate\>          | Nombre del tema al que sirva el template.                                |
+| \<Autor\>          | Nombre del dueño del resumen.                                     |
 | \<NroDeParcial\>     | Número del parcial.                                              |
 
 ## Criterio de Línea Base
