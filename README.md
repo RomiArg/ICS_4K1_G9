@@ -1,4 +1,9 @@
 
+# INGENIERIA Y CALIDAD DE SOFTWARE | 4K1 | GRUPO 9
+
+
+
+
 ## Estructura de Carpetas
 
 - Teórico
@@ -32,9 +37,9 @@
 | SCM                          | ICS_4K1_G9_Bibliografia_SCM_\<NombreDeLibro\>.pdf     | ICS_4K1_G9\\teorico\\bibliografia\\SCM                  |
 | Testing de Software          | ICS_4K1_G9_Bibliografia_TS_\<NombreDeLibro\>.pdf      | ICS_4K1_G9\\teorico\\bibliografia\\Testing-Software     |
 | Guías de ejercicios prácticos | ICS_4K1_G9_GEP_\<NombreDeGuia\>.pdf                  | ICS_4K1_G9\\practico\\guias-ejercicios-practicos         |
-| TP evaluables                | ICS_4K1_G9_TPE_Nro_\<NroDeTP\>.pdf                      | ICS_4K1_G9\\practico\\trabajos-practicos\\evaluables    |
-| TP no evaluables             | ICS_4K1_G9_TPN_\<NroDeTP\>.pdf                          | ICS_4K1_G9\\practico\\trabajos-practicos\\no-evaluables |
-| Templates                    | ICS_4K1_G9_Template_\<NombreDeTemplate\>.\<Ext\>           | ICS_4K1_G9\\practico\\templates                         |
+| TP evaluables                | ICS_4K1_G9_TPE_Nro_\<NroDeTP\>.pdf    <br>   ICS_4K1_G9_TPE_Nro_\<NroDeTP\>.rar    <br> ICS_4K1_G9_TP_\<NroDeTP\>_Edit.docx            | ICS_4K1_G9\\practico\\trabajos-practicos\\evaluables    |
+| TP no evaluables             | ICS_4K1_G9_TPN_\<NroDeTP\>.pdf     <br> ICS_4K1_G9_TPN_\<NroDeTP\>.rar    <br> ICS_4K1_G9_TPN_\<NroDeTP\>_Edit.docx                 | ICS_4K1_G9\\practico\\trabajos-practicos\\no-evaluables |
+| Templates                    | ICS_4K1_G9_Template_\<NombreDeTemplate\>.docx <br>  ICS_4K1_G9_Template_\<NombreDeTemplate\>.xlsx        | ICS_4K1_G9\\practico\\templates                         |
 | Resúmenes                    | ICS_4K1_G9_Resumen_\<Autor\>\_Parcial\_\<NroDeParcial\>.pdf              | ICS_4K1_G9\\parciales\\resumenes                        |
 | Parciales de años anteriores | ICS_4K1_G9_PAA_\<NroDeParcial\>.pdf                     | ICS_4K1_G9\\parciales\\parciales-años-anteriores        |
 
@@ -69,4 +74,5 @@ LB: Indica que se trata de una línea base.
 <Fecha>: Fecha en la que se establece la línea base, en formato AAAA-MM-DD.
 #### Ejemplo:
 - LB_TP1_2024-09-01: Línea base establecida después de la corrección del TP1 el 29 de septiembre de 2024.
+
 
