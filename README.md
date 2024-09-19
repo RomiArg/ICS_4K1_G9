@@ -62,7 +62,7 @@
 | \<NroDeParcial\>     | Número del parcial.                                              |
 
 ## Reglas
- - La carpeta de TP evaluables puede  contener subcarpetas donde se incluya el codigo. 
+ - La carpeta de TP evaluables puede  contener subcarpetas donde se incluya el codigo, las cuales respetaran las reglas de nomenclaturas propuestas para los pdfs.
 
 ## Criterio de Línea Base
 
